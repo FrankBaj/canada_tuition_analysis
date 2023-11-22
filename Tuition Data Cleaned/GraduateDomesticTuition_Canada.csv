@@ -1,0 +1,353 @@
+Date;Location;Field_Of_Study;Value
+2006/2007;Canada;Total, field of study;5387
+2007/2008;Canada;Total, field of study;5592
+2008/2009;Canada;Total, field of study;5737
+2009/2010;Canada;Total, field of study;4860
+2010/2011;Canada;Total, field of study;5401
+2011/2012;Canada;Total, field of study;5450
+2012/2013;Canada;Total, field of study;5916
+2013/2014;Canada;Total, field of study;6038
+2014/2015;Canada;Total, field of study;6295
+2015/2016;Canada;Total, field of study;6537
+2016/2017;Canada;Total, field of study;6784
+2017/2018;Canada;Total, field of study;6920
+2018/2019;Canada;Total, field of study;7388
+2019/2020;Canada;Total, field of study;7186
+2020/2021;Canada;Total, field of study;7361
+2021/2022;Canada;Total, field of study;7315
+2022/2023;Canada;Total, field of study;7409
+2023/2024;Canada;Total, field of study;7573
+2006/2007;Canada;Education;4627
+2007/2008;Canada;Education;4353
+2008/2009;Canada;Education;4697
+2009/2010;Canada;Education;4410
+2010/2011;Canada;Education;4981
+2011/2012;Canada;Education;5089
+2012/2013;Canada;Education;5462
+2013/2014;Canada;Education;5536
+2014/2015;Canada;Education;5674
+2015/2016;Canada;Education;5697
+2016/2017;Canada;Education;5866
+2017/2018;Canada;Education;6050
+2018/2019;Canada;Education;6546
+2019/2020;Canada;Education;6423
+2020/2021;Canada;Education;6523
+2021/2022;Canada;Education;6640
+2022/2023;Canada;Education;6844
+2023/2024;Canada;Education;6957
+2006/2007;Canada;Visual and performing arts, and communications technologies;3679
+2007/2008;Canada;Visual and performing arts, and communications technologies;3759
+2008/2009;Canada;Visual and performing arts, and communications technologies;4255
+2009/2010;Canada;Visual and performing arts, and communications technologies;4562
+2010/2011;Canada;Visual and performing arts, and communications technologies;4834
+2011/2012;Canada;Visual and performing arts, and communications technologies;4409
+2012/2013;Canada;Visual and performing arts, and communications technologies;4890
+2013/2014;Canada;Visual and performing arts, and communications technologies;4700
+2014/2015;Canada;Visual and performing arts, and communications technologies;4818
+2015/2016;Canada;Visual and performing arts, and communications technologies;5202
+2016/2017;Canada;Visual and performing arts, and communications technologies;5069
+2017/2018;Canada;Visual and performing arts, and communications technologies;5388
+2018/2019;Canada;Visual and performing arts, and communications technologies;5440
+2019/2020;Canada;Visual and performing arts, and communications technologies;5263
+2020/2021;Canada;Visual and performing arts, and communications technologies;5506
+2021/2022;Canada;Visual and performing arts, and communications technologies;5588
+2022/2023;Canada;Visual and performing arts, and communications technologies;5683
+2023/2024;Canada;Visual and performing arts, and communications technologies;5783
+2006/2007;Canada;Humanities;3531
+2007/2008;Canada;Humanities;3460
+2008/2009;Canada;Humanities;3767
+2009/2010;Canada;Humanities;3979
+2010/2011;Canada;Humanities;4239
+2011/2012;Canada;Humanities;4336
+2012/2013;Canada;Humanities;4522
+2013/2014;Canada;Humanities;4525
+2014/2015;Canada;Humanities;4624
+2015/2016;Canada;Humanities;4619
+2016/2017;Canada;Humanities;4674
+2017/2018;Canada;Humanities;4724
+2018/2019;Canada;Humanities;4827
+2019/2020;Canada;Humanities;4881
+2020/2021;Canada;Humanities;4678
+2021/2022;Canada;Humanities;4817
+2022/2023;Canada;Humanities;4899
+2023/2024;Canada;Humanities;4994
+2006/2007;Canada;Social and behavioural sciences, and legal studies ;3579
+2007/2008;Canada;Social and behavioural sciences, and legal studies ;3709
+2008/2009;Canada;Social and behavioural sciences, and legal studies ;3990
+2009/2010;Canada;Social and behavioural sciences, and legal studies ;4109
+2010/2011;Canada;Social and behavioural sciences, and legal studies ;4605
+2011/2012;Canada;Social and behavioural sciences, and legal studies ;4556
+2012/2013;Canada;Social and behavioural sciences, and legal studies ;5020
+2013/2014;Canada;Social and behavioural sciences, and legal studies ;5103
+2014/2015;Canada;Social and behavioural sciences, and legal studies ;5325
+2015/2016;Canada;Social and behavioural sciences, and legal studies ;5460
+2016/2017;Canada;Social and behavioural sciences, and legal studies ;5829
+2017/2018;Canada;Social and behavioural sciences, and legal studies ;5977
+2018/2019;Canada;Social and behavioural sciences, and legal studies ;6135
+2019/2020;Canada;Social and behavioural sciences, and legal studies ;5801
+2020/2021;Canada;Social and behavioural sciences, and legal studies ;6008
+2021/2022;Canada;Social and behavioural sciences, and legal studies ;6006
+2022/2023;Canada;Social and behavioural sciences, and legal studies ;6135
+2023/2024;Canada;Social and behavioural sciences, and legal studies ;6277
+2006/2007;Canada;Law;3272
+2007/2008;Canada;Law;3813
+2008/2009;Canada;Law;3773
+2009/2010;Canada;Law;4477
+2010/2011;Canada;Law;4487
+2011/2012;Canada;Law;5302
+2012/2013;Canada;Law;5373
+2013/2014;Canada;Law;5834
+2014/2015;Canada;Law;5758
+2015/2016;Canada;Law;6148
+2016/2017;Canada;Law;5757
+2017/2018;Canada;Law;5681
+2018/2019;Canada;Law;6179
+2019/2020;Canada;Law;6036
+2020/2021;Canada;Law;6087
+2021/2022;Canada;Law;6499
+2022/2023;Canada;Law;6129
+2023/2024;Canada;Law;6227
+2006/2007;Canada;Business, management and public administration;14879
+2007/2008;Canada;Business, management and public administration;5225
+2008/2009;Canada;Business, management and public administration;5760
+2009/2010;Canada;Business, management and public administration;6175
+2010/2011;Canada;Business, management and public administration;8132
+2011/2012;Canada;Business, management and public administration;7932
+2012/2013;Canada;Business, management and public administration;8547
+2013/2014;Canada;Business, management and public administration;8987
+2014/2015;Canada;Business, management and public administration;10378
+2015/2016;Canada;Business, management and public administration;10703
+2016/2017;Canada;Business, management and public administration;11140
+2017/2018;Canada;Business, management and public administration;10979
+2018/2019;Canada;Business, management and public administration;13524
+2019/2020;Canada;Business, management and public administration;13145
+2020/2021;Canada;Business, management and public administration;14052
+2021/2022;Canada;Business, management and public administration;14630
+2022/2023;Canada;Business, management and public administration;13903
+2023/2024;Canada;Business, management and public administration;14293
+2007/2008;Canada;Executive MBA;22142
+2008/2009;Canada;Executive MBA;29893
+2009/2010;Canada;Executive MBA;28770
+2010/2011;Canada;Executive MBA;37032
+2011/2012;Canada;Executive MBA;39485
+2012/2013;Canada;Executive MBA;37613
+2013/2014;Canada;Executive MBA;41009
+2014/2015;Canada;Executive MBA;43541
+2015/2016;Canada;Executive MBA;40627
+2016/2017;Canada;Executive MBA;47251
+2017/2018;Canada;Executive MBA;44957
+2018/2019;Canada;Executive MBA;59709
+2019/2020;Canada;Executive MBA;50459
+2020/2021;Canada;Executive MBA;51005
+2021/2022;Canada;Executive MBA;52101
+2022/2023;Canada;Executive MBA;44815
+2023/2024;Canada;Executive MBA;45596
+2007/2008;Canada;Regular MBA;14545
+2008/2009;Canada;Regular MBA;19376
+2009/2010;Canada;Regular MBA;20464
+2010/2011;Canada;Regular MBA;20336
+2011/2012;Canada;Regular MBA;22939
+2012/2013;Canada;Regular MBA;22546
+2013/2014;Canada;Regular MBA;23784
+2014/2015;Canada;Regular MBA;24305
+2015/2016;Canada;Regular MBA;26335
+2016/2017;Canada;Regular MBA;29025
+2017/2018;Canada;Regular MBA;30003
+2018/2019;Canada;Regular MBA;31818
+2019/2020;Canada;Regular MBA;29028
+2020/2021;Canada;Regular MBA;29065
+2021/2022;Canada;Regular MBA;29544
+2022/2023;Canada;Regular MBA;30070
+2023/2024;Canada;Regular MBA;31028
+2006/2007;Canada;Physical and life sciences and technologies;4103
+2007/2008;Canada;Physical and life sciences and technologies;4067
+2008/2009;Canada;Physical and life sciences and technologies;4437
+2009/2010;Canada;Physical and life sciences and technologies;5239
+2010/2011;Canada;Physical and life sciences and technologies;5477
+2011/2012;Canada;Physical and life sciences and technologies;5632
+2012/2013;Canada;Physical and life sciences and technologies;5913
+2013/2014;Canada;Physical and life sciences and technologies;6024
+2014/2015;Canada;Physical and life sciences and technologies;6100
+2015/2016;Canada;Physical and life sciences and technologies;6350
+2016/2017;Canada;Physical and life sciences and technologies;6455
+2017/2018;Canada;Physical and life sciences and technologies;6753
+2018/2019;Canada;Physical and life sciences and technologies;7056
+2019/2020;Canada;Physical and life sciences and technologies;6741
+2020/2021;Canada;Physical and life sciences and technologies;6740
+2021/2022;Canada;Physical and life sciences and technologies;6828
+2022/2023;Canada;Physical and life sciences and technologies;6936
+2023/2024;Canada;Physical and life sciences and technologies;7052
+2006/2007;Canada;Mathematics, computer and information sciences;4129
+2007/2008;Canada;Mathematics, computer and information sciences;4042
+2008/2009;Canada;Mathematics, computer and information sciences;4277
+2009/2010;Canada;Mathematics, computer and information sciences;5488
+2010/2011;Canada;Mathematics, computer and information sciences;5735
+2011/2012;Canada;Mathematics, computer and information sciences;5716
+2012/2013;Canada;Mathematics, computer and information sciences;5790
+2013/2014;Canada;Mathematics, computer and information sciences;6001
+2014/2015;Canada;Mathematics, computer and information sciences;6039
+2015/2016;Canada;Mathematics, computer and information sciences;6123
+2016/2017;Canada;Mathematics, computer and information sciences;7727
+2017/2018;Canada;Mathematics, computer and information sciences;8010
+2018/2019;Canada;Mathematics, computer and information sciences;8456
+2019/2020;Canada;Mathematics, computer and information sciences;8395
+2020/2021;Canada;Mathematics, computer and information sciences;8562
+2021/2022;Canada;Mathematics, computer and information sciences;8702
+2022/2023;Canada;Mathematics, computer and information sciences;8988
+2023/2024;Canada;Mathematics, computer and information sciences;9169
+2006/2007;Canada;Engineering;4221
+2007/2008;Canada;Engineering;4287
+2008/2009;Canada;Engineering;4593
+2009/2010;Canada;Engineering;5312
+2010/2011;Canada;Engineering;5522
+2011/2012;Canada;Engineering;5175
+2012/2013;Canada;Engineering;6040
+2013/2014;Canada;Engineering;6168
+2014/2015;Canada;Engineering;6388
+2015/2016;Canada;Engineering;6777
+2016/2017;Canada;Engineering;7077
+2017/2018;Canada;Engineering;7219
+2018/2019;Canada;Engineering;7369
+2019/2020;Canada;Engineering;6990
+2020/2021;Canada;Engineering;7037
+2021/2022;Canada;Engineering;7243
+2022/2023;Canada;Engineering;7519
+2023/2024;Canada;Engineering;7696
+2006/2007;Canada;Architecture;4153
+2007/2008;Canada;Architecture;4068
+2008/2009;Canada;Architecture;4293
+2009/2010;Canada;Architecture;4672
+2010/2011;Canada;Architecture;4834
+2011/2012;Canada;Architecture;4950
+2012/2013;Canada;Architecture;5290
+2013/2014;Canada;Architecture;5483
+2014/2015;Canada;Architecture;5704
+2015/2016;Canada;Architecture;5807
+2016/2017;Canada;Architecture;6117
+2017/2018;Canada;Architecture;6471
+2018/2019;Canada;Architecture;6567
+2019/2020;Canada;Architecture;6742
+2020/2021;Canada;Architecture;6349
+2021/2022;Canada;Architecture;6533
+2022/2023;Canada;Architecture;6676
+2023/2024;Canada;Architecture;6886
+2006/2007;Canada;Agriculture, natural resources and conservation;2830
+2007/2008;Canada;Agriculture, natural resources and conservation;3873
+2008/2009;Canada;Agriculture, natural resources and conservation;3921
+2009/2010;Canada;Agriculture, natural resources and conservation;4636
+2010/2011;Canada;Agriculture, natural resources and conservation;4821
+2011/2012;Canada;Agriculture, natural resources and conservation;4769
+2012/2013;Canada;Agriculture, natural resources and conservation;5136
+2013/2014;Canada;Agriculture, natural resources and conservation;5236
+2014/2015;Canada;Agriculture, natural resources and conservation;5431
+2015/2016;Canada;Agriculture, natural resources and conservation;5377
+2016/2017;Canada;Agriculture, natural resources and conservation;5429
+2017/2018;Canada;Agriculture, natural resources and conservation;5499
+2018/2019;Canada;Agriculture, natural resources and conservation;5669
+2019/2020;Canada;Agriculture, natural resources and conservation;5938
+2020/2021;Canada;Agriculture, natural resources and conservation;5896
+2021/2022;Canada;Agriculture, natural resources and conservation;5892
+2022/2023;Canada;Agriculture, natural resources and conservation;6368
+2023/2024;Canada;Agriculture, natural resources and conservation;6512
+2007/2008;Canada;Dentistry;7187
+2008/2009;Canada;Dentistry;3171
+2009/2010;Canada;Dentistry;3218
+2010/2011;Canada;Dentistry;4337
+2011/2012;Canada;Dentistry;4365
+2012/2013;Canada;Dentistry;10753
+2013/2014;Canada;Dentistry;11631
+2014/2015;Canada;Dentistry;12135
+2015/2016;Canada;Dentistry;12276
+2016/2017;Canada;Dentistry;12239
+2017/2018;Canada;Dentistry;12872
+2018/2019;Canada;Dentistry;13726
+2019/2020;Canada;Dentistry;13002
+2020/2021;Canada;Dentistry;12995
+2021/2022;Canada;Dentistry;13112
+2022/2023;Canada;Dentistry;13171
+2023/2024;Canada;Dentistry;13282
+2006/2007;Canada;Medicine;6976
+2007/2008;Canada;Medicine;5811
+2007/2008;Canada;Nursing;4286
+2008/2009;Canada;Nursing;4892
+2009/2010;Canada;Nursing;4925
+2010/2011;Canada;Nursing;5090
+2011/2012;Canada;Nursing;5117
+2012/2013;Canada;Nursing;5746
+2013/2014;Canada;Nursing;5844
+2014/2015;Canada;Nursing;6076
+2015/2016;Canada;Nursing;7321
+2016/2017;Canada;Nursing;7622
+2017/2018;Canada;Nursing;7764
+2018/2019;Canada;Nursing;6684
+2019/2020;Canada;Nursing;6328
+2020/2021;Canada;Nursing;6532
+2021/2022;Canada;Nursing;6777
+2022/2023;Canada;Nursing;6807
+2023/2024;Canada;Nursing;6973
+2007/2008;Canada;Pharmacy;1909
+2008/2009;Canada;Pharmacy;6195
+2009/2010;Canada;Pharmacy;5247
+2010/2011;Canada;Pharmacy;5411
+2011/2012;Canada;Pharmacy;5466
+2012/2013;Canada;Pharmacy;5199
+2013/2014;Canada;Pharmacy;6456
+2014/2015;Canada;Pharmacy;6248
+2015/2016;Canada;Pharmacy;6044
+2016/2017;Canada;Pharmacy;5922
+2017/2018;Canada;Pharmacy;4114
+2018/2019;Canada;Pharmacy;4055
+2019/2020;Canada;Pharmacy;4245
+2020/2021;Canada;Pharmacy;4171
+2021/2022;Canada;Pharmacy;4340
+2022/2023;Canada;Pharmacy;4036
+2023/2024;Canada;Pharmacy;4109
+2007/2008;Canada;Veterinary medicine;2774
+2008/2009;Canada;Veterinary medicine;3304
+2009/2010;Canada;Veterinary medicine;3357
+2010/2011;Canada;Veterinary medicine;3435
+2011/2012;Canada;Veterinary medicine;3173
+2012/2013;Canada;Veterinary medicine;3313
+2013/2014;Canada;Veterinary medicine;3650
+2014/2015;Canada;Veterinary medicine;3686
+2015/2016;Canada;Veterinary medicine;3358
+2016/2017;Canada;Veterinary medicine;3687
+2017/2018;Canada;Veterinary medicine;3941
+2018/2019;Canada;Veterinary medicine;4358
+2019/2020;Canada;Veterinary medicine;4170
+2020/2021;Canada;Veterinary medicine;3948
+2021/2022;Canada;Veterinary medicine;3968
+2022/2023;Canada;Veterinary medicine;4175
+2023/2024;Canada;Veterinary medicine;4236
+2018/2019;Canada;Optometry;5012
+2019/2020;Canada;Optometry;4508
+2020/2021;Canada;Optometry;4508
+2021/2022;Canada;Optometry;4508
+2022/2023;Canada;Optometry;4508
+2023/2024;Canada;Optometry;4508
+2006/2007;Canada;Other health, parks, recreation and fitness;4649
+2007/2008;Canada;Other health, parks, recreation and fitness;4305
+2008/2009;Canada;Other health, parks, recreation and fitness;5092
+2009/2010;Canada;Other health, parks, recreation and fitness;5430
+2010/2011;Canada;Other health, parks, recreation and fitness;7017
+2011/2012;Canada;Other health, parks, recreation and fitness;7577
+2012/2013;Canada;Other health, parks, recreation and fitness;7858
+2013/2014;Canada;Other health, parks, recreation and fitness;7707
+2014/2015;Canada;Other health, parks, recreation and fitness;7868
+2015/2016;Canada;Other health, parks, recreation and fitness;8158
+2016/2017;Canada;Other health, parks, recreation and fitness;8040
+2017/2018;Canada;Other health, parks, recreation and fitness;8285
+2018/2019;Canada;Other health, parks, recreation and fitness;8786
+2019/2020;Canada;Other health, parks, recreation and fitness;8401
+2020/2021;Canada;Other health, parks, recreation and fitness;8570
+2021/2022;Canada;Other health, parks, recreation and fitness;7043
+2022/2023;Canada;Other health, parks, recreation and fitness;7036
+2023/2024;Canada;Other health, parks, recreation and fitness;7190
+2016/2017;Canada;Personal, protective and transportation services;3987
+2017/2018;Canada;Personal, protective and transportation services;6513
+2018/2019;Canada;Personal, protective and transportation services;6007
+2019/2020;Canada;Personal, protective and transportation services;5513
+2020/2021;Canada;Personal, protective and transportation services;4500
+2021/2022;Canada;Personal, protective and transportation services;5795
+2022/2023;Canada;Personal, protective and transportation services;6591
+2023/2024;Canada;Personal, protective and transportation services;6660
